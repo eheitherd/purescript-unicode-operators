@@ -1,0 +1,16 @@
+{
+  "name": "purescript-unicode-operators",
+  "packageSet": {
+    "set": "psc-0.13.4",
+    "repo": "https://github.com/purescript/package-sets.git"
+  },
+  "dependencies": [],
+  "devDependencies": [
+    "arrays",
+    "console",
+    "effect",
+    "prelude",
+    "psci-support",
+    "tuples"
+  ]
+}

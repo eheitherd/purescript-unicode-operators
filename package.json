@@ -1,0 +1,12 @@
+{
+  "name": "purescript-unicode-operators",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "pulpunte test"
+  },
+  "devDependencies": {
+    "pulpunte": "^0.2.0",
+    "purescript": "^0.13.5"
+  }
+}
